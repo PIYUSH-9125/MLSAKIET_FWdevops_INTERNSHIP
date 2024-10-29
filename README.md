@@ -1,3 +1,68 @@
+
+Name - Piyush
+Section - C
+University roll no. - 2300290100171
+Semester - 3
+Batch - 2323-27
+MLSA WEB DEVELOPMENT INTERNSHIP
+
+
+
+# Piyush's Personal Webpage
+
+welcome to my personal webpage! This project showcases my skills, projects, and experiences gained during the MLSA Web Development Internship. It's designed to be a simple yet elegant representation of who I am and what I do.
+
+
+
+## Project Overview
+
+This personal webpage serves as a portfolio and a platform to share my journey in web development. It includes sections for my biography, projects, skills, and some social media links.
+
+## Features
+
+- **Responsive Design**: Optimized for both desktop and mobile viewing.
+- **Project Showcase**: Highlights my key projects and contributions.
+- **About Me**: A brief introduction to my background and interests.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap (or any other frameworks you used)
+
+## Simple Calculator (Medium Level Project)
+
+
+A responsive, user-friendly calculator application that allows you to perform basic arithmetic operations with ease and precision. This calculator works effectively across both PC and mobile devices.
+
+Features
+Basic Arithmetic Operations: Supports essential calculations including Addition (+), Subtraction (-), Multiplication (×), and Division (÷), making it versatile for everyday calculations.
+
+Clear/Reset Button: Quickly reset the calculator or clear the current input, ensuring a clean slate for new calculations.
+
+Decimal Support: Operates with decimal numbers to provide precise calculations, especially for operations requiring fractional values.
+
+Backspace/Delete: Includes a backspace function that enables correction of single digits without resetting the whole input, improving usability for quick edits.
+
+Adaptability: Designed to work seamlessly across PC and mobile platforms, providing a smooth experience irrespective of the device used.
+
+Reliability: Built to handle quick, repetitive calculations with consistent performance, making it a dependable tool for day-to-day arithmetic needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Full-stack Web Development Internship
 
 Welcome to the Git repository for the Full-stack Web Development Internship. This program is designed to equip students with proficiency in  building dynamic, user-friendly interfaces using HTML, CSS, JavaScript, and frameworks like React. It also includes implementing server-side logic with technologies such as Node.js and managing databases with MongoDB. Interns often work on projects like e-commerce sites and online portfolios, ensuring seamless user experiences across various devices through responsive design techniques.
